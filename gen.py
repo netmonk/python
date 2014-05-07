@@ -9,7 +9,7 @@
 # there is a reproduction function to make a new population based on the selected best previous expression
 # there is a mutation function to introduce randomness into reproduction
 # currently the value are set to 100000 generations (before stopping).
-# a set of 100 expressions as population 
+# a set of 1000 expressions as population 
 # a value of 50% mutation. 
 
 import random
